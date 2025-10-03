@@ -12,7 +12,7 @@ I enjoy collaborating and building impactful solutions. Motivated individual who
 - Operating Systems: Linux, Windows
 
 ## 🌱 Currently Learning
-- Currently exploring Artificial Intelligence concepts so I can leverage the skills during my pathway of being a full-stack software developer. Learning how to structure and use AI during development of Systems.
+- Currently exploring Artificial Intelligence concepts so I can leverage the skills during my pathway of being a full-stack software developer. Learning how to structure and use AI prompts during development of Systems.
 
 
 ## 🏆 Achievements
