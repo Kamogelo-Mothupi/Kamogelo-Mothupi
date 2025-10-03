@@ -22,7 +22,7 @@ I enjoy collaborating and building impactful solutions. Motivated individual who
 
 ## 📫 How to Reach Me
 - Email: mothupikamogelotj@gmail.com
-- Personal Website: https://kamogelo-mothupi-portfolio.netlify.app/)
+- Personal Website: https://kamogelo-mothupi-portfolio.netlify.app/
 
 ## ⚡ Fun Fact
-- I can write 'Hello World' in over 10 programming languages.
+- I can write "Hello World" in over 10 programming languages.
