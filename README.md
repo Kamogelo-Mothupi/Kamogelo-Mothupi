@@ -11,6 +11,13 @@ I enjoy collaborating and building impactful solutions. Motivated individual who
 - Tools: Git, VSCode, GitHub, Eclipse, Netbeans
 - Operating Systems: Linux, Windows, MacOS
 - Database: MongoDB, Supabase, Firebase,SQL
+- <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,azure,css,figma,git,github,html,javascript,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,supabase,tailwind,typescript,java,kotlin,nextjs,visualstudio,vercel" />
+</p>
 
 ## 🌱 Currently Learning
 - Currently exploring Artificial Intelligence concepts so I can leverage the skills during my pathway of being a full-stack software developer.
