@@ -23,7 +23,46 @@ I enjoy collaborating and building impactful solutions. Motivated individual who
 - Currently exploring Artificial Intelligence concepts so I can leverage the skills during my pathway of being a full-stack software developer.
 - Learning how to structure and use AI prompts during development of Systems.
 - MERN(Mongo DB, Express.js, React.js, Node.js) Stack for Full-stack software development.
-- 
+
+  ## 🌟 Featured Projects
+
+### AI Expense Tracker(FinSight)
+**Tech Stack:** ASP.NET Core MVC • Azure Blob Storage • SQL Server • Bootstrap 5 • Entity Framework Core
+
+A comprehensive web application that revolutionizes event planning and venue management.
+- ✅ Smart venue availability validation preventing double bookings
+- 🎯 Advanced filtering system by event type, date range, and availability
+- ☁️ Secure image uploads with Azure Blob Storage integration
+- 🎨 Responsive, modern UI built with Bootstrap 5
+
+**[Visit Live Site →](https://github.com/St10245564)**
+
+
+### 📅 Event Management System
+**Tech Stack:** ASP.NET Core MVC • Azure Blob Storage • SQL Server • Bootstrap 5 • Entity Framework Core
+
+A comprehensive web application that revolutionizes event planning and venue management.
+- ✅ Smart venue availability validation preventing double bookings
+- 🎯 Advanced filtering system by event type, date range, and availability
+- ☁️ Secure image uploads with Azure Blob Storage integration
+- 🎨 Responsive, modern UI built with Bootstrap 5
+
+**[Visit Live Site →](https://github.com/St10245564)**
+
+
+### 📅 Event Management System
+**Tech Stack:** ASP.NET Core MVC • Azure Blob Storage • SQL Server • Bootstrap 5 • Entity Framework Core
+
+A comprehensive web application that revolutionizes event planning and venue management.
+- ✅ Smart venue availability validation preventing double bookings
+- 🎯 Advanced filtering system by event type, date range, and availability
+- ☁️ Secure image uploads with Azure Blob Storage integration
+- 🎨 Responsive, modern UI built with Bootstrap 5
+
+**[Visit Live Site →](https://github.com/St10245564)**
+
+
+A to-do list or project management tool that allows users to create tasks, assign priorities, set due dates, categorize tasks, and potentially collaborate.
 
 
 ## 🏆 Achievements
@@ -35,18 +74,6 @@ I enjoy collaborating and building impactful solutions. Motivated individual who
 - Email: mothupikamogelotj@gmail.com
 - Personal Website:https://kamogelo-mothupi.netlify.app/
 - Contact: 063 650 4891
-
-  ## ⚡️ Stats
-
-<br>
-
-<div float="center" align=center>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Kamogelo-Mothupi&theme=rose&layout=donut&hide=css&langs_count=8&show_icons=true&locale=en" alt="Kamogelo's Most Used Languages" />
-    <img width=325 src="https://github-readme-stats.vercel.app/api?username=kamogelo-mothupi&show_icons=true&hide=stars&include_all_commits=true&rank_icon=percentile&theme=rose" />
-</div>
-
-
-  
 
 ## ⚡ Fun Fact
 - I can write "Hello World" in over 10 programming languages.
