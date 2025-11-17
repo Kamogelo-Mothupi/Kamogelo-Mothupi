@@ -36,5 +36,17 @@ I enjoy collaborating and building impactful solutions. Motivated individual who
 - Personal Website:https://kamogelo-mothupi.netlify.app/
 - Contact: 063 650 4891
 
+  ## ⚡️ Stats
+
+<br>
+
+<div float="center" align=center>
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Kamogelo-Mothupi&theme=rose&layout=donut&hide=css&langs_count=8&show_icons=true&locale=en" alt="Kamogelo's Most Used Languages" />
+    <img width=325 src="https://github-readme-stats.vercel.app/api?username=kamogelo-mothupi&show_icons=true&hide=stars&include_all_commits=true&rank_icon=percentile&theme=rose" />
+</div>
+
+
+  
+
 ## ⚡ Fun Fact
 - I can write "Hello World" in over 10 programming languages.
