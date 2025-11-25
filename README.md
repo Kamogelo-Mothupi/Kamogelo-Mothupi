@@ -27,7 +27,7 @@ I enjoy collaborating and building impactful solutions. Motivated individual who
   ## 🌟 Featured Projects
 
 ### AI Expense Tracker(FinSight)
-**Tech Stack:** ASP.NET Core MVC • Azure Blob Storage • SQL Server • Bootstrap 5 • Entity Framework Core
+**Tech Stack:** • Tailwind CSS • HTML • API Integration • React
 
 A comprehensive web application that revolutionizes event planning and venue management.
 - ✅ Smart venue availability validation preventing double bookings
@@ -38,14 +38,15 @@ A comprehensive web application that revolutionizes event planning and venue man
 **[Visit Live Site →](https://github.com/St10245564)**
 
 
-### 📅 Event Management System
-**Tech Stack:** ASP.NET Core MVC • Azure Blob Storage • SQL Server • Bootstrap 5 • Entity Framework Core
+### Weather App
+**Tech Stack:** • React • CSS • HTML • Gemini API Key
 
-A comprehensive web application that revolutionizes event planning and venue management.
-- ✅ Smart venue availability validation preventing double bookings
-- 🎯 Advanced filtering system by event type, date range, and availability
-- ☁️ Secure image uploads with Azure Blob Storage integration
-- 🎨 Responsive, modern UI built with Bootstrap 5
+A sleek and responsive weather application that fetches real-time conditions using the Gemini API. The app provides current weather data, forecasts, and location-based results with a clean UI
+- ✅ Real-time weather updates using Gemini API
+- 🎯 Temperature, humidity, wind, and condition summaries
+- ☁️ Search by city or use device geolocation
+- 🎨 Responsive, modern UI, Minimal, mobile-friendly interface
+- Search by city or use device geolocation
 
 **[Visit Live Site →](https://github.com/St10245564)**
 
