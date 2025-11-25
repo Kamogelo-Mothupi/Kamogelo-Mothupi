@@ -35,7 +35,7 @@ A comprehensive web application that revolutionizes event planning and venue man
 - ☁️ Secure image uploads with Azure Blob Storage integration
 - 🎨 Responsive, modern UI built with Bootstrap 5
 
-**[Visit Live Site →](https://github.com/St10245564)**
+**[Visit Live Site →][https://finsight-expense-tracker.netlify.app/**
 
 
 ### Weather App
@@ -48,7 +48,7 @@ A sleek and responsive weather application that fetches real-time conditions usi
 - 🎨 Responsive, modern UI, Minimal, mobile-friendly interface
 - Search by city or use device geolocation
 
-**[Visit Live Site →](https://github.com/St10245564)**
+**[Visit Live Site →]https://weather-gemini.netlify.app/**
 
 
 ### 📅 E-Commerce
@@ -62,7 +62,7 @@ A comprehensive web application that revolutionizes event planning and venue man
 - 🎨 Responsive layout
 - Authentication, admin dashboard, payments
 
-**[Visit Live Site →](https://github.com/St10245564)**
+**[Visit Live Site →]https://pentacore-store.netlify.app/**
 
 
 A to-do list or project management tool that allows users to create tasks, assign priorities, set due dates, categorize tasks, and potentially collaborate.
