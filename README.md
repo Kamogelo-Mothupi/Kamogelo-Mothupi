@@ -51,14 +51,16 @@ A sleek and responsive weather application that fetches real-time conditions usi
 **[Visit Live Site →](https://github.com/St10245564)**
 
 
-### 📅 Event Management System
-**Tech Stack:** ASP.NET Core MVC • Azure Blob Storage • SQL Server • Bootstrap 5 • Entity Framework Core
+### 📅 E-Commerce
+A full-featured e-commerce platform for browsing and purchasing tech products. Includes product listings, filtering, a shopping cart, and checkout flow.
+**Tech Stack:** • React • CSS • HTML
 
 A comprehensive web application that revolutionizes event planning and venue management.
-- ✅ Smart venue availability validation preventing double bookings
-- 🎯 Advanced filtering system by event type, date range, and availability
-- ☁️ Secure image uploads with Azure Blob Storage integration
-- 🎨 Responsive, modern UI built with Bootstrap 5
+- ✅ Product catalog for laptops, phones, accessories, and more
+- 🎯 Add-to-cart and cart management
+- ☁️ Product filtering/sorting
+- 🎨 Responsive layout
+- Authentication, admin dashboard, payments
 
 **[Visit Live Site →](https://github.com/St10245564)**
 
