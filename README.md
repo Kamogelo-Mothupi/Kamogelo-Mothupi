@@ -2,7 +2,7 @@
 # Hi, I'm Kamogelo Mothupi 👋
 
 ## 🚀 About Me
-I'm a Software Developer with 2 years hands on experience, a tech enthusiast passionate about building mobile and web applications to solve problems.  
+I'm a Software Developer with 2 years hands on experience from school work, personal projects and work experience. I am a tech enthusiast passionate about building mobile and web applications to solve problems.  
 I enjoy collaborating and building impactful solutions. Motivated individual who wants to be a valuable employee at the organization where I will be employed.
 
 ## 🛠️ Skills & Tools
