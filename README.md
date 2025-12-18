@@ -74,9 +74,9 @@ A to-do list or project management tool that allows users to create tasks, assig
 - AI fluency certificate.
 
 ## 📫 How to Reach Me
-- Email: mothupikamogelotj@gmail.com
+- Email: mothupikamogelojt@gmail.com
 - Personal Website:https://kamogelo-mothupi.netlify.app/
-- Contact: 063 650 4891
+- Contact: 063 650 4891/0713463536
 
 ## ⚡ Fun Fact
 - I can write "Hello World" in over 10 programming languages.
