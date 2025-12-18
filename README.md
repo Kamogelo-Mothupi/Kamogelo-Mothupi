@@ -76,7 +76,7 @@ A to-do list or project management tool that allows users to create tasks, assig
 ## 📫 How to Reach Me
 - Email: mothupikamogelojt@gmail.com
 - Personal Website:https://kamogelo-mothupi.netlify.app/
-- Contact: 063 650 4891/0713463536
+- Contact: 063 650 4891 /071 346 3536
 
 ## ⚡ Fun Fact
 - I can write "Hello World" in over 10 programming languages.
